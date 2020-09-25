@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "354214005507",
+    "firebase_url": "https://party-game-app.firebaseio.com",
+    "project_id": "party-game-app",
+    "storage_bucket": "party-game-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:354214005507:android:e8b692bfc27290ad3fb736",
+        "android_client_info": {
+          "package_name": "com.bystromjulia.pg_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "354214005507-7nbtqj5e25qqfnef4aimvn0vimr2p71c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMUXqHGRkaAKcgx4WMMZuOfTkDGuyy_hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "354214005507-7nbtqj5e25qqfnef4aimvn0vimr2p71c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
